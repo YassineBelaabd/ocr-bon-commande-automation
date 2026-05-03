@@ -40,6 +40,9 @@ Prototype réalisé sur un document fictif, sans données réelles ni données c
 4. Extraction des champs utiles avec regex
 5. Structuration des résultats dans un tableau Pandas
 6. Correction automatique simple des quantités avec la formule :
+7. Ajout d'un statut de validation
+8. Export du résultat en CSV
+
 
 ```text
 quantité corrigée = total ligne / prix unitaire
